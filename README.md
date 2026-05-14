@@ -1,6 +1,6 @@
 ---
 dg-publish: true
-dg-graph: false
+dg-hide-in-graph: true
 ---
 Welcome to [[Diacrithis Chronicles]]!
 
