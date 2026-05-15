@@ -1,0 +1,4 @@
+La Main Noire est une faction clandestine de [[L'Académie]]. Elle utilise la [[Toile Sombre]] pour alimenter des experiences sinistres. Son but officiel est de chercher pourquoi la magie fonctionne mieux en [[Outreterre]].
+Le chef de département fut peu à peu corrompu par Shar et à commencé à prendre des initiatives de moins en moins saines. Il a remplacé le staff par des sympathisant et corrompu le reste.
+La Main Noire est désormais une faction quasi indépendante active sur tout le territoire. Elle collectionne avidement les artefacts magiques dans un but inconnu. 
+La faction entretien volontiers les rumeurs de son existence au sein de [[L'Académie]], mais  son étendue est un secret bien gardé car quiconque tente de reveler son existence au public disparaît de la population sans aucune trace.
